@@ -10,7 +10,7 @@ The process is displayed below
 A. Piva, M. Barni, F. Bartolini and V. Cappellini, "DCT-based watermark recovering without resorting to the uncorrupted original image," Proceedings of International Conference on Image Processing, 1997, pp. 520-523 vol.1, doi: 10.1109/ICIP.1997.647964.
 
 ##
-* Packages you used:
+* Packages I used:
   * numpy
   * matplotlib
   * cv2
