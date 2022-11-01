@@ -7,4 +7,4 @@ The process is displayed below
 
 Reference:
 
-https://www.researchgate.net/profile/Alessandro-Piva-4/publication/3720351_DCT-based_watermark_recovering_without_resorting_to_the_uncorruptedoriginal_image/links/0046352aab94b55432000000/DCT-based-watermark-recovering-without-resorting-to-the-uncorruptedoriginal-image.pdf
+A. Piva, M. Barni, F. Bartolini and V. Cappellini, "DCT-based watermark recovering without resorting to the uncorrupted original image," Proceedings of International Conference on Image Processing, 1997, pp. 520-523 vol.1, doi: 10.1109/ICIP.1997.647964.
